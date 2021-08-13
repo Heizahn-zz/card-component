@@ -1,0 +1,17 @@
+.container{
+  
+  align-items: center;
+  border-bottom-right-radius: 0px;
+}
+
+.c1, .c2{
+  width: 50%;
+}
+
+.c1 img{
+  border-top-left-radius: 0px;
+}
+
+.c2{
+  order: -1;
+}
